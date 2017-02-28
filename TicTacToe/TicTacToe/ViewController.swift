@@ -39,15 +39,23 @@ class ViewController: UIViewController {
                 y = false
                 
             }
-    
-            }
-            
-    
+        }
     }
-        if y == false {
-        message.text = "Draw!!"
+         y = false
+        for i in game  {
+            if i == 0 {
+                y = true
+                break
+            }
         }
         
+        if y == false && message.text == "Player1 winner!!" {
+            message.text = "Player1 winner!!"
+        } else if y == false  {
+            message.text = "Draw!!"
+            y = false
+        }
+    
     }
     
     @IBAction func playAgain(_ sender: Any) {
