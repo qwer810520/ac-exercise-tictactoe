@@ -2,7 +2,7 @@
 //  AppDelegate.swift
 //  TicTacToe
 //
-//  Created by 楷岷 張 on 2017/2/25.
+//  Created by 楷岷 張 on 2017/3/1.
 //  Copyright © 2017年 Min. All rights reserved.
 //
 

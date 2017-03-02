@@ -14,7 +14,7 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "396F48EB1E6185EA00C65225"
+               BlueprintIdentifier = "396F49091E66DC4D00C65225"
                BuildableName = "TicTacToe.app"
                BlueprintName = "TicTacToe"
                ReferencedContainer = "container:TicTacToe.xcodeproj">
@@ -32,7 +32,7 @@
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "396F48EB1E6185EA00C65225"
+            BlueprintIdentifier = "396F49091E66DC4D00C65225"
             BuildableName = "TicTacToe.app"
             BlueprintName = "TicTacToe"
             ReferencedContainer = "container:TicTacToe.xcodeproj">
@@ -55,7 +55,7 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "396F48EB1E6185EA00C65225"
+            BlueprintIdentifier = "396F49091E66DC4D00C65225"
             BuildableName = "TicTacToe.app"
             BlueprintName = "TicTacToe"
             ReferencedContainer = "container:TicTacToe.xcodeproj">
@@ -74,7 +74,7 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "396F48EB1E6185EA00C65225"
+            BlueprintIdentifier = "396F49091E66DC4D00C65225"
             BuildableName = "TicTacToe.app"
             BlueprintName = "TicTacToe"
             ReferencedContainer = "container:TicTacToe.xcodeproj">
