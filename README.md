@@ -1,1 +1,0 @@
-# ac-exercise-tictactoe
